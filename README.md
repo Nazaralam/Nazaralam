@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nazaralam
-- 👀 I’m interested in Python and JAVA
-- 🌱 I’m currently learning Selenium and Locust
+- 👀 I’m interested in JavaScript and JAVA
+- 🌱 I’m currently learning Selenium and Automation stuff
 - 📫 How to reach me nazaralam79@gmail.com
 
 <!---
